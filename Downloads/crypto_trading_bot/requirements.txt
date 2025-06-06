@@ -1,0 +1,9 @@
+python-binance
+python-dotenv
+openai
+PyQt5
+requests
+plotly
+dash
+bs4
+feedparser

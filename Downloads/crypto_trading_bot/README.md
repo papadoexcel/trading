@@ -1,0 +1,1 @@
+# Crypto Trading Bot\n\n## Requisitos\n- Python 3.9+\n- Chaves da Binance e OpenAI\n- API gratuita de WhatsApp (CallMeBot)\n\n## Instalação\n```bash\npip install -r requirements.txt\n```\n\n## Execução\n```bash\npython main.py\n```\n\n## Observação\nUse `.env` para armazenar suas chaves com segurança.\n
